@@ -10,4 +10,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-##how to contribute
+## Deployment
+
+
+## how to contribute
